@@ -69,4 +69,4 @@ Acknowledgement
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
--> Run: ng serve --proxy-config proxy.conf.json
+-> ADD the projects in api folder 
